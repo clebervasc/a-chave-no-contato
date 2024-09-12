@@ -78,7 +78,7 @@ export function YourCar() {
                 <p className="text-xl">
                   Encontrar um seminovo confiável e com bom preço não precisa
                   ser complicado. Nós fazemos isso por você! Encaminhamos seu
-                  contato para a concessionária mais próximaque ofereça o melhor
+                  contato para a concessionária mais próxima que ofereça o melhor
                   custo-benefício. Informe suas preferências e deixe o resto com
                   a gente.
                 </p>
